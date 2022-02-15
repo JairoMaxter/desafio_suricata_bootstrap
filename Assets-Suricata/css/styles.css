@@ -1,0 +1,16 @@
+.pink-color {
+  background-color: #e83e8c;
+}
+
+i {
+  font-size: 50px;
+}
+.ptx{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+}
+.piedepagina {
+  height: 120px;
+}
